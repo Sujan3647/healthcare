@@ -74,7 +74,7 @@ export const Doctors = [
     name: "Alyana Cruz",
   },
   {
-    image: "/assets/images/dr-sharma.png",
+    image: "/assethttps://startup-incubation.iutripura.in/teams/images/dr-sharma.png",
     name: "Hardik Sharma",
   },
 ];
